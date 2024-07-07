@@ -1,8 +1,9 @@
 export default theme = {
     colors: {
-        textPrimary: 'grey',
+        textPrimary: '#24292e',
         textSecondary: 'blue',
         primary: 'blue',
+        white: 'white',
     },
     fontSizes: {
         body: 14,
